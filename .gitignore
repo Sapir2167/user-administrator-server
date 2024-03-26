@@ -1,0 +1,12 @@
+# Build Artifacts
+node_modules/
+dist/
+
+# Environment Config
+.env
+
+# Dependency Files
+package-lock.json
+
+# REST API Client
+.http
